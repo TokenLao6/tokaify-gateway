@@ -1,4 +1,8 @@
+
 # Tokaify Gateway
+
+[![Website](https://img.shields.io/badge/官网-tokaify.com-blue)](https://tokaify.com)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > 一个为 LLM API 调用设计的轻量级网关，通过智能路由、语义缓存和多上游故障转移，**平均降低 45% 以上的 Token 成本**，同时保证模型透明不降级。
 
